@@ -1,5 +1,5 @@
 # Gideon-AI
-A python AI made by Rishabh Bector and Leo Orshansky using api.ai, Google Speech Recognition, and many more public APIs.
+A python AI made by Alisson Davi and Pedro Vinicius using api.ai, Google Speech Recognition, and many more public APIs.
 ### Feel free to download and play around with it.
 
 
